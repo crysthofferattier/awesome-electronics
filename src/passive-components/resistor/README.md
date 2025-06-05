@@ -7,7 +7,8 @@ A resistor is a passive two-terminal electronic component that implements electr
 - [Electronic symbols and notation](#electronic-symbols-and-notation)
 - [Color band system](#color-band-system)
 - [Color Code](#color-code)
-- [Pull Up/Down Resistor](#pull-updown-resistor)
+- [Pull Up Resistor](#pull-up)
+- [Pull Down Resistor](#pull-downßßß)
 
 | Property       | Value                       |
 |----------------|-----------------------------|
@@ -50,10 +51,7 @@ A resistor is a passive two-terminal electronic component that implements electr
 | SILVER | -          | -           | x10⁻² (0.01)          | ±10%      |
 | PINK   | -          | -           | x10⁻³ (0.001)         | -         |
 
-
-### Pull Up/Down Resistor
-
-#### Pull UP
+### Pull UP
 
 A pull-up resistor in electronics is a resistor connected between a **signal line** and a **positive voltage source** (e.g., VCC). 
 
@@ -71,7 +69,7 @@ How it works:
 
 > Example: Consider a button connected to a microcontroller's input pin. When the button is not pressed, the signal line is pulled high by the pull-up resistor. When the button is pressed, the line is pulled low. 
 
-#### Pull Down
+### Pull Down
 
 A pull-down resistor ensures a circuit pin is at a low logic level (0V or ground) when no external signal is present. It connects a pin to ground through a resistor, effectively pulling the voltage down to ground in the absence of a driving signal. This is useful in situations where an input pin might otherwise be in an undefined or floating state, which can lead to unpredictable behavior. 
 
