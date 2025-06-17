@@ -6,5 +6,5 @@ A passive component, also known as a passive device, is an electronic component 
 - [Capacitors](/src/passive-components/capacitor/README.md)
 - [Diode](/src/passive-components/diode/README.md)
 - [Potentiometer](/src/passive-components/potentiometer/README.md)
-- [Inductors]()
-- [Transformers]()
+- [Inductors](/src/passive-components/inductor/README.md)
+- [Transformers](/src/passive-components/README.md)
