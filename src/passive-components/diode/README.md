@@ -1,7 +1,5 @@
 # Diode
 
-![diode](/assets/img/diode.jpg)
-
 A **diode** is a semiconductor device, typically made from **silicon** or **germanium**, that acts as a one-way switch for electric current. It allows current to flow easily in one direction (forward direction) but severely restricts current from flowing in the opposite direction (reverse direction).
 
 ### **Polarity and Biasing:**
@@ -16,7 +14,7 @@ Most diodes allow current to flow only when a **positive voltage** is applied to
 * **Forward Bias**: Current flows easily when the anode is positive relative to the cathode.
 * **Reverse Bias**: The diode blocks current when the cathode is positive relative to the anode.
 
-![Diode](https://www.example.com/diode.jpg)  *(replace with actual image URL)*
+![diode](/assets/img/diode.jpg)
 
 ---
 
