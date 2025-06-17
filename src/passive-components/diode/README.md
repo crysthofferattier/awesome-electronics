@@ -50,5 +50,3 @@ Most diodes allow current to flow only when a **positive voltage** is applied to
 
 ---
 
-This version includes more specific terminology, detailed applications, and a clearer explanation of the diode's function. You've already done a great job; I just added a bit more depth in certain areas for comprehensive coverage. Does this revision work for you?
-

@@ -71,5 +71,3 @@ A **potentiometer** is a type of **variable resistor** that is commonly used to 
 ### Fun Fact:
 
 Potentiometers used in some high-end audio equipment are known for providing smoother volume adjustments, offering more granular control over sound levels than typical push-button or stepped control systems.
-
-Would you like to dive deeper into any specific types of potentiometers, or see an example of how one might be used in a circuit?

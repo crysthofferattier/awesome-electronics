@@ -111,5 +111,3 @@ In a circuit diagram, an inductor is usually represented by a series of loops or
 * **Price**: High-performance inductors, such as those with ferrite cores, can be more expensive than other passive components.
 
 ---
-
-Would you like to go into more detail about any particular aspect of inductors, or perhaps explore a specific example or application?
