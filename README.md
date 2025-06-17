@@ -6,7 +6,7 @@ Electronics is a scientific and engineering discipline that studies and applies 
 
 ## Contents
 
-- [Passive Components](#passive-components)
+- [Passive Components](/src/passive-components/README.md)
 - [Active Components]()
 - [Microcontrollers]()
 - [Tools]()
